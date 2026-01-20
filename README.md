@@ -56,7 +56,20 @@ This project focuses on analyzing employee attrition using HR analytics data to 
 This HR Attrition Analytics dashboard demonstrates practical data analysis, visualization, and business storytelling skills. The project reflects real-world HR analytics use cases and highlights how data can support strategic workforce planning.
 
 ---
+Screenshots:
+
+1. HR Attrition Analytics Dashboard
+![My Screenshot](/HR%20Attrition%20Dashboard%20snapshot.png)
+
+2. Attrition by Travel
+
+![Attrition by Travel](/Attrition%20by%20Travel%20snapshot.png)
+
+3. HR Attrition Q&A
+
+![HR Attrition Q&A](/HR%20Attrition%20Q&A%20Snapshot.png)
 
 👩‍💻 Author
+
 Amreen Mulla 
 Aspiring Data Analyst | SQL | Power BI | Excel | Python  
