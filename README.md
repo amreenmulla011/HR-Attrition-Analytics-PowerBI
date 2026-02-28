@@ -59,11 +59,12 @@ This HR Attrition Analytics dashboard demonstrates practical data analysis, visu
 Screenshots:
 
 1. HR Attrition Analytics Dashboard
-![My Screenshot](/screenshots/HR%20Attrition%20Dashboard%20snapshot.png)
+
+![My Screenshot](screenshots/HR_attrition_dashboard_snapshot.png)
 
 2. Attrition by Travel
 
-![Attrition by Travel](/screenshots/Attrition%20by%20Travel%20snapshot.png)
+![Attrition by Travel](screenshots/Attrition_by_travel_snapshot.png)
 
 3. HR Attrition Q&A
 
